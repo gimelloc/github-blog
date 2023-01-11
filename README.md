@@ -9,6 +9,8 @@ Desafio 03 - GitHub Blog feito no curso Ignite da Rocketseat
 
 # Preview
 
+Clique para visualizar em qualidade melhor.
+
 ![Animação](https://user-images.githubusercontent.com/50672568/211874849-e76a4a2f-40a1-465e-b208-0226af00e949.gif)
 
 # Conceitos Utilizados
