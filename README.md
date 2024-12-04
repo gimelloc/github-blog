@@ -1,5 +1,5 @@
 # github-blog
-Desafio 03 - GitHub Blog feito no curso Ignite da Rocketseat
+GitHub Blog feito no curso Ignite da Rocketseat
 
 # Objetivo
 
